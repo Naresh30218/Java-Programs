@@ -22,6 +22,7 @@ public static void main(String[] args) {
         st-=2;
 
         System.out.println();
+        
      }
 
  }
