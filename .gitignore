@@ -1,0 +1,9 @@
+.metadata
+.settings
+bin
+lib
+src/.metadata
+textfiles
+.classpath
+.project
+txtfiles
